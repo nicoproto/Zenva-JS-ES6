@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nico1711/Zenva-JS-ES6#readme",
   "dependencies": {
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "url": "^0.11.0"
   }
 }
